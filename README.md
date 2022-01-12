@@ -15,7 +15,7 @@ This is a note taking app, which has user authentication feature provided Flask 
 <h4>Home page</h4>
 After the user authenticiated, the user can now create notes.
 
-![plot4](Images/Adding note.jpg)
+![plot4](Images/AddNote.jpg)
 <h4>Add Note</h4>
 After writing note in text box, the user can click on Add Note to add it into database
 
