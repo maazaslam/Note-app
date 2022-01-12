@@ -11,7 +11,7 @@ This is a note taking app, which has user authentication feature provided Flask 
 ![](./Images/Sign_up.jpg)
 <h4>Sign up page</h4>
 ---------
-![](./Images/Home_page_after sign up.jpg)
+![](./Images/home.jpg)
 <h4>Home page</h4>
 After the user authenticiated, the user can now create notes.
 ---------
